@@ -1,0 +1,14 @@
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.AssemblyInfoInputs.cache
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.AssemblyInfo.cs
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.csproj.CoreCompileInputs.cache
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/bin/Debug/net9.0/BugetingApp
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/bin/Debug/net9.0/BugetingApp.deps.json
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/bin/Debug/net9.0/BugetingApp.runtimeconfig.json
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/bin/Debug/net9.0/BugetingApp.dll
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/bin/Debug/net9.0/BugetingApp.pdb
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.dll
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/refint/BugetingApp.dll
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.pdb
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/BugetingApp.genruntimeconfig.cache
+/Users/sufyanalikhan/Documents/Master_Folder/Code/CSHARPPRAC/BugetingApp/obj/Debug/net9.0/ref/BugetingApp.dll
